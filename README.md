@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Software Development Technology <br>student at the Instituto Tecnológico Metropolitano <br>de Medellín Colombia<br><br>
+I am currently a Software Development Technology <br>student at the Instituto Tecnológico Metropolitano <br>from Medellín Colombia<br><br>
 
 
 ## 🌐 Socials:
